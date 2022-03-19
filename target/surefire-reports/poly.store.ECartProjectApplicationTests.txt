@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: poly.store.ECartProjectApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.826 s - in poly.store.ECartProjectApplicationTests
